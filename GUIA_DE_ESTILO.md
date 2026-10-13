@@ -5,13 +5,22 @@ Página de frases tipo tuit para Facebook e Instagram, público hispano (Colombi
 ## Tono
 Directo, sarcástico, con humor y algo de desamor. Frases que la gente comparte porque "dicen lo que yo pienso" o para mandar una indirecta. Nunca cursi ni de autoayuda genérica.
 
-## Rotación de temas (ir cambiando en cada publicación)
-1. Desamor y soltar (exes, ghosting, dejar en visto, gente que no valora)
-2. Humor cotidiano (trabajo, dinero, cansancio, lunes, adultez)
-3. Sarcasmo e indirectas (gente tóxica, falsos amigos, hipocresía)
-4. Nostalgia (cosas de antes, infancia, tecnología vieja)
-5. Reflexión con giro inesperado (empieza seria y remata con humor)
-6. Amor propio con actitud (sin sonar a frase de taza motivacional)
+## Enfoque principal: SARCASMO (decisión de la dueña, 13-oct-2026)
+Al menos 2 de cada 3 frases deben ser claramente sarcásticas: ironía, falsa amabilidad, remate
+inesperado, "elogio" que en realidad es crítica. Aunque el tema sea desamor, adultez o amor propio,
+el tono va con sarcasmo, no con melancolía.
+
+Ejemplos del tono buscado (NO reutilizar, son solo referencia):
+- "Qué bonito es tener amigos que solo se acuerdan de ti cuando necesitan un favor. Así uno se siente útil."
+- "Gracias por enseñarme que se puede ser mentiroso y puntual al mismo tiempo: siempre mentías a tiempo."
+
+## Rotación de temas (ir cambiando en cada publicación, siempre con sarcasmo)
+1. Sarcasmo e indirectas (gente tóxica, falsos amigos, hipocresía, gente que opina de todo)
+2. Desamor con sarcasmo (exes, ghosting, dejar en visto, promesas falsas)
+3. Humor cotidiano sarcástico (trabajo, jefes, dinero, lunes, adultez, familia)
+4. Sarcasmo e indirectas (otra vez: es el tema estrella)
+5. Amor propio con actitud y sarcasmo (sin sonar a frase de taza motivacional)
+6. Reflexión con giro sarcástico o nostalgia irónica
 
 ## Reglas
 - 100% originales: nunca copiar frases conocidas, de otras páginas, canciones ni poemas.
