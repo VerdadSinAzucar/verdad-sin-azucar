@@ -21,7 +21,7 @@ YEL = (255, 214, 10)
 BLACK = (17, 17, 17)
 
 
-def generar(texto, salida, pie="Más verdades en @verdad.sinazucar"):
+def generar(texto, salida, pie="Más verdades en @verdad.sinazucar", usuario="@verdad.sinazucar"):
     img = Image.new("RGB", (W, H), BLACK)
     d = ImageDraw.Draw(img)
     # Tarjeta blanca tipo tuit centrada (zona segura: deja libres arriba y abajo para la interfaz)
@@ -48,7 +48,7 @@ def generar(texto, salida, pie="Más verdades en @verdad.sinazucar"):
     ImageDraw.Draw(mask).ellipse([0, 0, a.size[0], a.size[1]], fill=255)
     img.paste(a, (x0, y0), mask)
     d.text((x0 + 135 * S, y0 + 14 * S), "Verdad Sin Azúcar", font=ImageFont.truetype(FB, 40 * S), fill=INK)
-    d.text((x0 + 135 * S, y0 + 62 * S), "@verdad.sinazucar", font=ImageFont.truetype(FR, 31 * S), fill=GRAY)
+    d.text((x0 + 135 * S, y0 + 62 * S), usuario, font=ImageFont.truetype(FR, 31 * S), fill=GRAY)
     y = y0 + 150 * S
     for ln in lines:
         d.text((x0, y), ln, font=body, fill=INK)
